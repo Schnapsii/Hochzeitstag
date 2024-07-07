@@ -10,7 +10,7 @@ text-align: center;
 
 
 h1{
-  color: #373737;
+  color: #fcab13;
   justify-content: center;
   align-items: center;
   vertical-align: middle;
@@ -48,4 +48,15 @@ section img:hover{
 }
 p{
 text-align: center;
+}
+.gedicht{
+  text-align: center;
+}
+span{
+  color: red;
+  width: 5rem;
+  height: 5rem;
+}
+.gedicht_ueberschrift{
+  font-size: 2rem;
 }
