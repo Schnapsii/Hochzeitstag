@@ -9,7 +9,7 @@ text-align: center;
 
 
 
-h1{
+h2{
   color: #fcab13;
   justify-content: center;
   align-items: center;
@@ -17,6 +17,7 @@ h1{
   text-align: center;
   display: flex;
   text-shadow: 5px 5px 10px rgb(37, 37, 37);
+  font-size: 1.25em;
 }
 
 
@@ -48,6 +49,7 @@ section img:hover{
 }
 p{
 text-align: center;
+text-shadow: 5px 5px 20px rgb(37, 37, 37);
 }
 .gedicht{
   text-align: center;
