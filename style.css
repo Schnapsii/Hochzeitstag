@@ -60,5 +60,6 @@ span{
   height: 5rem;
 }
 .gedicht_ueberschrift{
-  font-size: 2rem;
+  font-size: 3em;
+  color: blue;
 }
